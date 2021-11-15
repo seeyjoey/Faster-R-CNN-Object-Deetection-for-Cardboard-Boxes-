@@ -1,4 +1,4 @@
-# Faster-R-CNN-Object-Deetection-for-Cardboard-Boxes-
+# Faster-R-CNN-Object-Detection-for-Cardboard-Boxes-
 # Description
 In this study, we look at the idea of assisting parcel processing by automating the 2D detection of parcels. Deep learning models such as Faster R-CNN have been used to derive features of the parcel and to recognize all the occurrences of an object category. 
 
